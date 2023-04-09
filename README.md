@@ -20,7 +20,8 @@ The current version is kind of messy and only contains the architectures.
 
 If you have any problems or notice any bugs related to this version, please fell free to contact me (x.jia.1@cs.bham.ac.uk).
 
-We will update the code (such as including the training and testing code) in the future (hopefully soon).
+~~We will update the code (such as including the training and testing code) in the future (hopefully soon).~~
+The training and testing code can be found in our [LKU-Net](https://github.com/xi-jia/LKU-Net) and [Fourier-Net](https://github.com/xi-jia/Fourier-Net). They are bascially the same.
 
 
 ## Others
